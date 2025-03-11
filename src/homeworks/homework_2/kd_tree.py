@@ -3,7 +3,7 @@ from typing import Callable, Iterable, Optional
 
 import numpy as np
 from numpy.typing import NDArray
-from scipy.spatial.distance import euclidean  # type: ignore[no-untyped-def]
+from scipy.spatial.distance import euclidean
 
 from src.homeworks.homework_2.my_heap import MyHeap
 
