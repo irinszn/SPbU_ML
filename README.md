@@ -15,12 +15,12 @@ Assignments combine algorithmic work with data preprocessing, visualization, met
 | # | Title | Summary | Links |
 |--:|-------|---------|-------|
 | 2 | KD-Tree | Manual implementation of KD-Tree for fast k-NN search in multidimensional space. | [📁 homework_2](homeworks/homework_2) · [PR #2](https://github.com/irinszn/SPbU_ML/pull/2) |
-| 3 | Linear Regression | Predict house prices from the Kaggle dataset. Includes pipelines, preprocessing, regularization (L1/L2), feature and target transformations. | [📁 homework_3](homeworks/homework_3) |
-| 4 | Gradient Descent | Custom implementation of gradient descent for linear regression with different loss functions (MSE, MAE). Convergence analysis. | [📁 homework_4](homeworks/homework_4) |
-| 5 | Support Vector Machine | Solving SVM using `cvxopt`: both linear and kernelized versions. Tested on synthetic data, kernel influence analysis. | [📁 homework_5](homeworks/homework_5) |
-| 6 | Ensembles: Random Forest & CatBoost | Random Forest implementation + CatBoost usage on real VK social network data. Task: predict user gender and age. | [📁 homework_6](homeworks/homework_6) |
-| 7 | Clustering | Manual implementation of KMeans, DBScan, Agglomerative Clustering. Includes image color quantization with clustering. | [📁 homework_7](homeworks/homework_7) |
-| 8 | Text Classification | Spam classifier using Bag of Words, TF-IDF, Snowball stemmer, Naive Bayes. End-to-end NLP pipeline. | [📁 homework_8](homeworks/homework_8) |
+| 3 | Linear Regression | Predict house prices from the Kaggle dataset. Includes pipelines, preprocessing, regularization (L1/L2), feature and target transformations. | [📁 homework_3](homeworks/homework_3_linreg) |
+| 4 | Gradient Descent | Custom implementation of gradient descent for linear regression with different loss functions (MSE, MAE). Convergence analysis. | [📁 homework_4](homeworks/homework_4_gradient_descent) |
+| 5 | Support Vector Machine | Solving SVM using `cvxopt`: both linear and kernelized versions. Tested on synthetic data, kernel influence analysis. | [📁 homework_5](homeworks/homework_5_svm) |
+| 6 | Ensembles: Random Forest & CatBoost | Random Forest implementation + CatBoost usage on real VK social network data. Task: predict user gender and age. | [📁 homework_6](homeworks/homework_6_ensembles) |
+| 7 | Clustering | Manual implementation of KMeans, DBScan, Agglomerative Clustering. Includes image color quantization with clustering. | [📁 homework_7](homeworks/homework_7_clustering) |
+| 8 | Text Classification | Spam classifier using Bag of Words, TF-IDF, Snowball stemmer, Naive Bayes. End-to-end NLP pipeline. | [📁 homework_8](homeworks/homework_8_texts) |
 
 ---
 
